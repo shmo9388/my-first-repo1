@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	cout<<"hello" <<endl;
+	cout<<"hello, Git!" <<endl;
 	return 0;
 }
